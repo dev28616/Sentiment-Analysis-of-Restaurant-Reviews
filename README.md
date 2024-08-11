@@ -47,6 +47,3 @@ This project aims to perform sentiment analysis on restaurant reviews using natu
 ## Contributing 🤝
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
----
-Feel free to modify or expand upon this README to better suit your project's needs! 🎨
